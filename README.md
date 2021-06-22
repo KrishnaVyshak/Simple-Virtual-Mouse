@@ -1,5 +1,7 @@
 # Simple-Virtual-Mouse
 ## Install Modules
+
+[visit pypi](https://pypi.org/project/simplevirtualmousebykv/)
 ### Main module
 ``` pip install simplevirtualmousebykv ```
 
