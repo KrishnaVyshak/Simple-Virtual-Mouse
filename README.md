@@ -13,6 +13,10 @@
 
 ``` pip install tensorflow ```
 
-### Usage
+## Usage
 
-#### Download 
+#### Download and extract the files of this repo.
+#### run the ```main.py``` file and see the result. ``` python3 main.py``` or ``` python main.py```
+
+
+###### info: don't start the file by waving hands from corner. 
